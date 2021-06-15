@@ -1,0 +1,31 @@
+-> Identificar Aluno e Personal com o User
+-> Redicionamento para área de Aluno e Personal
+-> Redirecionamento de página quando sem autenticação
+-> Formulário de Alunos
+-> Listagem de Alunos
+-> Página para cadastro de Personal
+-> Model de exercícios
+-> form de exercício (salvar)
+-> Finalizar vinculo exercicio/aluno
+-> Habilitar o botao pra o aluno informar que fez o exercicios
+-> Fizer o DataTable no html
+-> Atribuir link de videos no youtube aos exercicios
+-> Concluir a etapa de avaliação, fazendo uma avaliação do inicio ao fim
+-> Listar ficha semanal do aluno e os exercicios do dia
+
+
+-> Listar avaliações do aluno e evolução
+-> Modal de confirmação em exluir excercício
+-> Em personal, Listar feedbacks
+-> Em personal, possibilitar filtrar avaliação por aluno
+-> Em personal, permitir continuar avaliação incompleta
+
+
+
+
+
+
+
+
+
+
